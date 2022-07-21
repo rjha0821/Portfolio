@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="http://github.com/rjha0821/Portfolio" target="_blank">http://github.com/rjha0821/Portfoli</a>
+  <a href="http://github.com/rjha0821/Portfolio" target="_blank">http://github.com/rjha0821/Portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
